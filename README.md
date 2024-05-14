@@ -1,4 +1,4 @@
-'\n' +
+
     '| Time | Activity |\n' +
     '| --- | --- |\n' +
     '| 6:00 AM | Wake up and have breakfast |\n' +
@@ -10,5 +10,4 @@
     '| 6:00 PM | Have dinner |\n' +
     '| 7:00 PM | Free time (e.g. hobbies, exercise, relaxation) |\n' +
     '| 10:00 PM | Wind down and prepare for bed |\n' +
-    '| 11:00 PM | Go to sleep |\n' +
-    '\n'
+    '| 11:00 PM | Go to sleep |
