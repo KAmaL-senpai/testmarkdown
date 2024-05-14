@@ -1,12 +1,13 @@
-| Time    | Activity                                          |
-| ------- | ------------------------------------------------- |
-| 6:00 AM | Wake up and have breakfast                       |
-| 7:00 AM | Commute to work or school                        |
-| 9:00 AM | Start work or school                             |
-| 12:00 PM| Have lunch                                       |
-| 1:00 PM | Continue work or school                          |
-| 5:00 PM | Commute home                                     |
-| 6:00 PM | Have dinner                                      |
-| 7:00 PM | Free time (e.g. hobbies, exercise, relaxation)   |
-| 10:00 PM| Wind down and prepare for bed                    |
-| 11:00 PM| Go to sleep                                      |
+| Time       | Activity            |
+|------------|---------------------|
+| 6:00 AM    | Wake Up             |
+| 6:30 AM    | Exercise            |
+| 7:30 AM    | Breakfast           |
+| 8:30 AM    | Work/School         |
+| 12:00 PM   | Lunch               |
+| 1:00 PM    | Work/School         |
+| 5:00 PM    | Free Time/Errands   |
+| 7:00 PM    | Dinner              |
+| 8:00 PM    | Relaxation          |
+| 10:00 PM   | Prepare for Bed     |
+| 11:00 PM   | Sleep               |
